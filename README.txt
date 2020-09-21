@@ -1,4 +1,3 @@
-# FTP-Socket-Programming
 File Transfer Protocol (FTP) using Client-Server socket programming
 These functionalities have been implemented in the the program : 
 
@@ -23,3 +22,4 @@ Enter a choice: GET PUT MGET MPUT QUIT
 
 Closing Client and Server
 Use command “QUIT server” to quit client program. This will disconnect the client. You can exit the server by simply using Ctrl + C on the server terminal.
+
